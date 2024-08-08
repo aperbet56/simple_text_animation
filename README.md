@@ -6,7 +6,7 @@ Création d'une animation sur le texte (effet machine à écrire) en HTML5 et CS
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/simple_text_animation/
 
 ## Développez avec
 
